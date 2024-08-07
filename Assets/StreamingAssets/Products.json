@@ -1,0 +1,450 @@
+{
+  "Products": [
+    {
+      "id": 194490359,
+      "numberOfComponentsFound": 1,
+      "furnitureCatValue": 1,
+      "productName": "First",
+      "designerName": "first",
+      "furnitureCategory": "Cot",
+      "furnitureDetails": "First",
+      "price": 500.0,
+      "wallDesign": "Wall design 1",
+      "components": [
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Front Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Top Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Bottom Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Left Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "sunmica",
+              "faceSide": "Right Face",
+              "sunmicaMatColor": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            }
+          ]
+        }
+      ],
+      "isApproved": 1
+    },
+    {
+      "id": 108240415,
+      "numberOfComponentsFound": 1,
+      "furnitureCatValue": 1,
+      "productName": "B",
+      "designerName": "B",
+      "furnitureCategory": "Cot",
+      "furnitureDetails": "B",
+      "price": 500,
+      "wallDesign": "Wall design 1",
+      "components": [
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.016
+          },
+          "sunmica": 0,
+          "zIndex": 2,
+          "smMaterialProperties": []
+        }
+      ],
+      "isApproved": 1
+    },
+    {
+      "id": 729585185,
+      "numberOfComponentsFound": 3,
+      "furnitureCatValue": 1,
+      "productName": "C",
+      "designerName": "C",
+      "furnitureCategory": "Cot",
+      "furnitureDetails": "C",
+      "price": 1000,
+      "wallDesign": "Wall design 1",
+      "components": [
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": -0.01268146
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "wood 19",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            }
+          ]
+        },
+        {
+          "positionValue": {
+            "x": -4.366501E-09,
+            "y": 0.5,
+            "z": 1.013526
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "wood 19",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            }
+          ]
+        },
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0.5
+          },
+          "rotationValues": {
+            "x": 90,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "wood 11",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            }
+          ]
+        }
+      ],
+      "isApproved": 1
+    },
+    {
+      "id": 56611632,
+      "numberOfComponentsFound": 1,
+      "furnitureCatValue": 1,
+      "productName": "Test",
+      "designerName": "Test",
+      "furnitureCategory": "Cot",
+      "furnitureDetails": "Test",
+      "price": 500,
+      "wallDesign": "Wall design 12",
+      "components": [
+        {
+          "positionValue": {
+            "x": -0.02617072,
+            "y": 0.5,
+            "z": -0.03782055
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 1,
+            "y": 1,
+            "z": 0.016
+          },
+          "sunmica": 0,
+          "zIndex": 2,
+          "smMaterialProperties": []
+        }
+      ],
+      "isApproved": 1
+    },
+    {
+      "id": 674318097,
+      "numberOfComponentsFound": 2,
+      "furnitureCatValue": 1,
+      "productName": "Plus\t",
+      "designerName": "Manju",
+      "furnitureCategory": "Bed",
+      "furnitureDetails": "Plus bed",
+      "price": 12345,
+      "wallDesign": "Wall design 1",
+      "isApproved": 0,
+      "components": [
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 2.4,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Front Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Top Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Bottom Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Left Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Right Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            }
+          ]
+        },
+        {
+          "positionValue": {
+            "x": 0,
+            "y": 0.5,
+            "z": 0
+          },
+          "rotationValues": {
+            "x": 0,
+            "y": 270,
+            "z": 0
+          },
+          "scaleValues": {
+            "x": 2.4,
+            "y": 1,
+            "z": 0.025
+          },
+          "sunmica": 1,
+          "zIndex": 3,
+          "smMaterialProperties": [
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Front Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Top Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Back Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Bottom Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Left Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            },
+            {
+              "sunmicaMatName": "Default_Material",
+              "faceSide": "Right Face",
+              "sunmicaMatColor": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

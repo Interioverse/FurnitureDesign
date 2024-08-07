@@ -1,0 +1,21 @@
+{
+  "Users": [
+    {
+      "id": 11111,
+      "userName": "Admin",
+      "password": "12345",
+      "phoneNumber": 9164612345,
+      "email": "interioverse@gmail.com",
+      "isAdmin": true,
+      "fileId": "1222090467023",
+      "cartItems": [
+        {
+          "productID": 194490359
+        },
+        {
+          "productID": 729585185
+        }
+      ]
+    }
+  ]
+}

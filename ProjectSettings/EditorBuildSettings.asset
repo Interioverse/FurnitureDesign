@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tool.unity
+    guid: dbaf377c6b44c1d4880cf61ca5c32145
+  - enabled: 0
+    path: Assets/Battlehub/Demo.unity
+    guid: d51aac1c94b43214bb415d5048cad48f
+  - enabled: 0
+    path: Assets/SMS/SMS.unity
+    guid: 3183e0b8ae67a4bda80e067ccbd4d41f
+  - enabled: 0
+    path: Assets/unity-webgl-email-master/email.unity
+    guid: 5d27ee4470409614e9c06d9f944e3822
+  m_configObjects: {}
